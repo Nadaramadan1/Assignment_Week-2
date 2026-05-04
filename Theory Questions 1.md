@@ -1,5 +1,5 @@
 
-## Topic 3: Image Thresholding
+## Topic 1: Image Thresholding
 
 ### 1. What is the purpose of thresholding in image processing?
 Thresholding is used to convert a grayscale image into a binary image to separate foreground objects from the background.
